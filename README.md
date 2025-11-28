@@ -68,6 +68,7 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila2 PC5:
+Jordi Martí Ureña: He clonat el fork que había creat abans apartir del link que ens han donat, he creat la branca amb el meu nom, he anyadit el meu nom i comentari al document i he pujat els canvis al projecte remot.
 
 
 #### AlumneFila2 PC6:
